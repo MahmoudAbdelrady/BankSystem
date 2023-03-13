@@ -12,3 +12,5 @@ Desktop application which helps bank employees to manage the bank customer funct
 * Showing a list of loans with customer name and employee name.
 * Requesting a loan.
 * Accepting or rejecting a loan.
+
+`The project was built using C# and Microsoft SQL server`
